@@ -1,0 +1,46 @@
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Persistence.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Persistence.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\en-US\Application.resources.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\bin\Debug\net6.0\pt-PT\Application.resources.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\user\RiderProjects\Guest\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Persistence.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Utility.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Persistence.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\Utility.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\en-US\Application.resources.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\bin\Debug\net6.0\pt-PT\Application.resources.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Projects\DockerTest c#\Guest\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

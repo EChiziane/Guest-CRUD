@@ -1,0 +1,72 @@
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\Desconhecido\RiderProjects\cmms-api\Utility\obj\Debug\net6.0\ref\Utility.dll
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\Desconhecido\RiderProjects\setup_.net6\Utility\obj\Debug\net6.0\ref\Utility.dll
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\user\Downloads\Compressed\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\ref\Utility.dll
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Setup_.Net6-master\Setup_.Net6-master\Utility\obj\Debug\net6.0\ref\Utility.dll
+C:\Users\user\RiderProjects\Guest\Utility\bin\Debug\net6.0\Utility.deps.json
+C:\Users\user\RiderProjects\Guest\Utility\bin\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Guest\Utility\bin\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\refint\Utility.dll
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Guest\Utility\obj\Debug\net6.0\ref\Utility.dll
+D:\Projects\DockerTest c#\Guest\Utility\bin\Debug\net6.0\Utility.deps.json
+D:\Projects\DockerTest c#\Guest\Utility\bin\Debug\net6.0\Utility.dll
+D:\Projects\DockerTest c#\Guest\Utility\bin\Debug\net6.0\Utility.pdb
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.csproj.AssemblyReference.cache
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.AssemblyInfoInputs.cache
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.AssemblyInfo.cs
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.csproj.CoreCompileInputs.cache
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.dll
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\refint\Utility.dll
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\Utility.pdb
+D:\Projects\DockerTest c#\Guest\Utility\obj\Debug\net6.0\ref\Utility.dll
