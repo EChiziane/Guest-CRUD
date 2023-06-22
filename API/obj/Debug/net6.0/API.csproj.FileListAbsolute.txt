@@ -1,0 +1,182 @@
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\API.exe
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\API.deps.json
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\API.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\API.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\MediatR.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Application.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Domain.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Persistence.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Utility.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Application.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Persistence.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\Utility.pdb
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\en-US\Application.resources.dll
+C:\Users\user\RiderProjects\Guest\Api\bin\Debug\net6.0\pt-PT\Application.resources.dll
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.dll
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\refint\API.dll
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.pdb
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\user\RiderProjects\Guest\Api\obj\Debug\net6.0\ref\API.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\appsettings.json
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\API.exe
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\API.deps.json
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\API.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\API.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\FluentValidation.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\MediatR.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\MySqlConnector.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Npgsql.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Application.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Domain.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Infrastructure.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Persistence.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Utility.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Application.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Infrastructure.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Persistence.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Domain.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\Utility.pdb
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\en-US\Application.resources.dll
+D:\Projects\DockerTest c#\Guest\api\bin\Debug\net6.0\pt-PT\Application.resources.dll
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.dll
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\refint\API.dll
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.pdb
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Projects\DockerTest c#\Guest\api\obj\Debug\net6.0\ref\API.dll
